@@ -1,0 +1,2 @@
+rootProject.name='EmailProcessorText'
+include ':app'
